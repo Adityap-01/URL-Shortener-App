@@ -2,7 +2,10 @@ URL Shortener <br />
 A Simple URL Shortener With Node.js, Express, and MongoDB
 
 In the project directory, you can run:<br />
-npm run devStart
+npm run devStart <br />
+
+Image - 
+![](Pic.PNG)
 
 Working - <br />
 1.Takes input through simple HTML Form.<br />
