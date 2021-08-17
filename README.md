@@ -2,7 +2,7 @@
 A Simple URL Shortener With Node.js, Express, and MongoDB
 
 In the project directory, you can run:<br />
-npm run devStart <br />
+### `npm run devStart` <br />
 
 ## Image - 
 ![](Pic.PNG)
